@@ -16,3 +16,4 @@
  - Deleting Comments
 
 ## APK
+You can use the android studio to open the [apk](https://github.com/universe1991/Photo-Sharing/raw/master/exercise2-8c01fa9e282b48369ef4588d6bfd9b13-signed.apk) to view it. 
